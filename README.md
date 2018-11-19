@@ -12,4 +12,4 @@ docker pull fingerliu/kube-apiserver  etc.
 
 ## Auto
 
-wget -O - https://raw.githubusercontent.com/FingerLiu/k8s.gcr.io/master/pull.sh| bash
+wget -O - https://raw.githubusercontent.com/FingerLiu/k8s.gcr.io/master/pull.sh | bash
