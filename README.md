@@ -4,7 +4,7 @@ k8s images
 
 # Usage
 
-## Mannal
+## manual
 
 docker pull fingerliu/{REPO-NAME}
 
